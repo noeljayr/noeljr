@@ -1,12 +1,6 @@
 {
   "version": 2,
   "name": "noeljr-portfolio",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
   "routes": [
     {
       "src": "/robots.txt",
@@ -21,7 +15,23 @@
       "dest": "/site.webmanifest"
     },
     {
-      "src": "/(.*\\.(?:css|js|jpg|jpeg|png|gif|svg|webp|ico|mp4|woff|woff2|ttf|eot))",
+      "src": "/styles.css",
+      "dest": "/styles.css"
+    },
+    {
+      "src": "/scripts.js",
+      "dest": "/scripts.js"
+    },
+    {
+      "src": "/public/(.*)",
+      "dest": "/public/$1"
+    },
+    {
+      "src": "/projects/(.*)",
+      "dest": "/projects/$1"
+    },
+    {
+      "src": "/(.*\\.(css|js|jpg|jpeg|png|gif|svg|webp|ico|mp4|woff|woff2|ttf|eot))",
       "dest": "/$1"
     },
     {
