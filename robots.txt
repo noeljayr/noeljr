@@ -1,9 +1,9 @@
-# robots.txt for noeljr.com
+# robots.txt for www.noeljr.com
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://noeljr.com/sitemap.xml
+Sitemap: https://www.noeljr.com/sitemap.xml
 
 # Disallow crawling of specific directories (if any)
 # Uncomment and modify as needed
