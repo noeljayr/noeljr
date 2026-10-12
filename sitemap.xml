@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://noeljr.com/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://noeljr.com/public/images/noel-luhanga.jpg</image:loc>
+      <image:title>Noel Jr. Luhanga - Product Designer and Developer</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Work Section -->
+  <url>
+    <loc>https://noeljr.com/#work</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- About Section -->
+  <url>
+    <loc>https://noeljr.com/#about</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Process Section -->
+  <url>
+    <loc>https://noeljr.com/#process</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://noeljr.com/#contact</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- KIN Project -->
+  <url>
+    <loc>https://noeljr.com/projects/kin/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noeljr.com/public/projects/kin/kin-cover.png</image:loc>
+      <image:title>KIN - Financial Data Unification App</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Goldilocks Project -->
+  <url>
+    <loc>https://noeljr.com/projects/goldilocks/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://noeljr.com/public/projects/goldilocks/cover.png</image:loc>
+      <image:title>Goldilocks Project</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Lehazin Project -->
+  <url>
+    <loc>https://noeljr.com/projects/lehazin/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://noeljr.com/public/projects/lehazin/cover.png</image:loc>
+      <image:title>Lehazin Project</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Sygenius Project -->
+  <url>
+    <loc>https://noeljr.com/projects/sygenius/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://noeljr.com/public/projects/sygenius/cover.png</image:loc>
+      <image:title>Sygenius Project</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Timvane Project -->
+  <url>
+    <loc>https://noeljr.com/projects/timvane/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://noeljr.com/public/projects/timvane/timvane-cover.png</image:loc>
+      <image:title>Timvane Project</image:title>
+    </image:image>
+  </url>
+
+</urlset>
