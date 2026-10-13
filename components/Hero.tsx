@@ -18,6 +18,7 @@ export default function Hero() {
           </p>
           <div className="hero-meta mono">
             <span className="hidden" itemProp="addressLocality">Fintech</span>
+            
             <span>E-commerce · AI & Automation</span>
             <span> Health · Education</span>
           </div>
