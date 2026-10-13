@@ -17,7 +17,7 @@ export default function Hero() {
             knack for building <strong> products</strong>.
           </p>
           <div className="hero-meta mono">
-            <span className="hidden" itemProp="addressLocality">Fintech</span>
+            <span itemProp="addressLocality">Fintech</span>
 
             <span>E-commerce · AI & Automation</span>
             <span> Health · Education</span>
