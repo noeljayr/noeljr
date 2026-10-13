@@ -25,14 +25,14 @@ export default function About() {
           <div className="about-right">
             <p className="io">
               <strong>Product designer and developer. </strong>I solve problems
-              by building systems that work beautifully for users—not by moving
+              by building systems that work beautifully for users, not by moving
               pixels around, but through decisions that help products gain and
               retain customers. My best work lives at the intersection of design
               thinking and code, like <strong>KIN</strong>, an app I built to
               unify fragmented financial data into one intuitive interface.
             </p>
             <p className="io">
-              I believe great design isn&apos;t decoration—it&apos;s structure,
+              I believe great design isn&apos;t decoration, it&apos;s structure,
               clarity, and the small details that make experiences feel
               effortless
             </p>
