@@ -14,7 +14,7 @@ const PROJECTS = [
     team: "Solo",
     scope: "Mobile app + landing page",
     summary:
-      "A finance tracker unifying transactions from three fragmented services into one structured interface — built from genuine friction.",
+      "A finance tracker unifying transactions from three fragmented services into one structured interface, built from genuine friction.",
     body: [
       "KIN started with a personal problem: understanding monthly spending across Airtel Money, TNM Mpamba, and National Bank meant switching between three inboxes and parsing inconsistent message formats. The cognitive load made financial clarity feel like archaeology.",
       "The solution processes transaction messages into a clean view. Playful micro-animations ease navigation without compromising usability. The app reflects my product philosophy: spot a real problem, design a solution, ship it, then iterate.",
@@ -41,8 +41,8 @@ const PROJECTS = [
     summary:
       "A secured personal loan platform turning assets into fast capital, built on transparent pricing and responsible lending for Malawi's everyday earners.",
     body: [
-      "Timvane Capital solves a market gap: Malawi's salaried workers, traders, and small business owners need credit but lack traditional banking relationships. The platform accepts what they already own — phones, vehicles, land, salary — as collateral, with loan-to-value ratios calibrated for local asset volatility.",
-      "Every fee is disclosed upfront. Reducing-balance interest means early repayment cuts total cost. The system processes applications through five stages — apply, assess, approve, secure, fund — with compliance baked into every approval tier. Currently operational with multi-channel repayment and credit bureau integration.",
+      "Timvane Capital solves a market gap: Malawi's salaried workers, traders, and small business owners need credit but lack traditional banking relationships. The platform accepts what they already own phones, vehicles, land, salary as collateral, with loan-to-value ratios calibrated for local asset volatility.",
+      "Every fee is disclosed upfront. Reducing-balance interest means early repayment cuts total cost. The system processes applications through five stages: apply, assess, approve, secure, fund with compliance baked into every approval tier. Currently operational with multi-channel repayment and credit bureau integration.",
     ],
     metrics: [
       ["−52%", "Charting time"],
@@ -66,10 +66,10 @@ const PROJECTS = [
     team: "1 designer · Teacher",
     scope: "Concept to design",
     summary:
-      "An AI-powered exam prep platform aligning quiz content with MANEB and IGCSE syllabuses — turning fragmented study materials into adaptive learning paths.",
+      "An AI-powered exam prep platform aligning quiz content with MANEB and IGCSE syllabuses turning fragmented study materials into adaptive learning paths.",
     body: [
       "Sygenius addresses preparation gaps for students sitting dual-track exams in Malawi: local MANEB and international IGCSE syllabuses have overlapping content but distinct question styles. The platform uses AI to analyze user performance patterns and surface syllabus-aligned questions where comprehension is weakest, converting passive review into targeted practice.",
-      "The design balances gamification mechanics (leaderboards, weekly prizes, streak tracking) with pedagogical structure — AI-generated supplementary notes contextualize wrong answers rather than just marking them incorrect.",
+      "The design balances gamification mechanics (leaderboards, weekly prizes, streak tracking) with pedagogical structure, AI-generated supplementary notes contextualize wrong answers rather than just marking them incorrect.",
     ],
     metrics: [
       ["+100", "Screens"],
@@ -93,10 +93,10 @@ const PROJECTS = [
     team: "Solo",
     scope: "System + landing page",
     summary:
-      "An e-commerce platform connecting Malawian farmers directly to buyers — bridging the gap between local agriculture and household demand through structured logistics.",
+      "An e-commerce platform connecting Malawian farmers directly to buyers, bridging the gap between local agriculture and household demand through structured logistics.",
     body: [
       "Lehazin addresses distribution friction in Malawi's agricultural supply chain. Farmers lack direct market access; households and restaurants lack reliable sourcing for local produce. The platform intermediates: farmers list inventory, buyers order by category (raw or processed), and fulfillment runs through a hub model that maintains cold chain integrity.",
-      "The system handles three buyer segments — households, restaurants, and bulk business orders — with pricing and delivery SLA differentiated by volume. Built on a transactional model with supplier onboarding, inventory sync, and multi-channel payment integration. Revenue model combines transaction fees and premium supplier placement.",
+      "The system handles three buyer segments households, restaurants, and bulk business orders with pricing and delivery SLA differentiated by volume. Built on a transactional model with supplier onboarding, inventory sync, and multi-channel payment integration. Revenue model combines transaction fees and premium supplier placement.",
     ],
     metrics: [
       ["+1K", "Sales"],
@@ -121,9 +121,9 @@ const PROJECTS = [
     team: "Solo",
     scope: "Landing page design",
     summary:
-      "A youth-led social enterprise building affordable assistive learning technologies for visually impaired students in Malawi — where imported solutions cost more than families earn annually.",
+      "A youth-led social enterprise building affordable assistive learning technologies for visually impaired students in Malawi where imported solutions cost more than families earn annually.",
     body: [
-      "Goldilocks started from a resource constraint: assistive technologies for visually impaired learners in Malawi are either unaffordable imports or nonexistent. The enterprise designs locally-manufactured learning tools — tactile materials, audio devices, adaptive interfaces — calibrated to classroom environments with inconsistent power and no repair infrastructure.",
+      "Goldilocks started from a resource constraint: assistive technologies for visually impaired learners in Malawi are either unaffordable imports or nonexistent. The enterprise designs locally-manufactured learning tools: tactile materials, audio devices, adaptive interfaces calibrated to classroom environments with inconsistent power and no repair infrastructure.",
       "The landing page needed to balance institutional credibility (for donor acquisition) with accessibility compliance (to reflect the mission). Typography scales fluidly, color ratios meet WCAG AA, and navigation works without vision. The site has supported partnerships with local schools and international recognition, translating impact metrics into continued funding.",
     ],
     metrics: [

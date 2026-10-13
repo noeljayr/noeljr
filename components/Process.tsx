@@ -12,7 +12,7 @@ const steps = [
   {
     n: "03",
     title: "Design",
-    text: "Prototype at the speed of the argument — fidelity matches the decision at stake.",
+    text: "Prototype at the speed of the argument, fidelity matches the decision at stake.",
   },
   {
     n: "04",

@@ -138,7 +138,7 @@ export default function Overlays({
               : "01 / 06"}
           </span>
           <span className="mono dim" id="caseKicker">
-            {project ? `${project.sector} — ${project.year}` : "Case study"}
+            {project ? `${project.sector} • ${project.year}` : "Case study"}
           </span>
           <button
             className="case-close"

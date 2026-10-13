@@ -15,7 +15,7 @@ const CAPS = [
   },
   {
     t: "UX Architecture",
-    d: "Structure before pixels. Information architecture and mental models that survive contact with edge cases — because that's where users live.",
+    d: "Structure before pixels. Information architecture and mental models that survive contact with edge cases, because that's where users live.",
     c: [
       "IA & navigation",
       "User flows",
@@ -30,7 +30,7 @@ const CAPS = [
   },
   {
     t: "Design Systems",
-    d: "Tokens, components and — the hard part — governance. Built to be boring, documented to be used, versioned to be trusted.",
+    d: "Tokens, components and the hard part governance. Built to be boring, documented to be used, versioned to be trusted.",
     c: [
       "Token architecture",
       "Component libraries",

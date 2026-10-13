@@ -56,7 +56,7 @@ export default function Contact({ onToast }: ContactProps) {
         btn.innerHTML = '<i class="ti ti-check"></i> Sent';
       }
       const firstName = name.split(" ")[0];
-      setFormStatus(`Thanks, ${firstName} — expect a reply within 48h.`);
+      setFormStatus(`Thanks, ${firstName}: expect a reply within 48h.`);
       onToast?.("Inquiry sent");
 
       setTimeout(() => {
