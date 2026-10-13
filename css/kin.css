@@ -1,0 +1,158 @@
+
+html {
+  font-family: "Satoshi";
+  font-size: clamp(16px, 1.4vw, 1.3em);
+  scroll-behavior: smooth;
+  scroll-padding-top: 15rem;
+  overflow-x: hidden;
+  background-color: var(--background);
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("./fonts/Satoshi-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("./fonts/Satoshi-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("./fonts/Satoshi-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("./fonts/Satoshi-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --background: #f1f1f1;
+  --foreground: #333333;
+  --black: #333333;
+
+  /* typography */
+  --h1: clamp(1.59rem, 4.9vw, 1.9rem);
+  --h2: clamp(1.25rem, 4vw, 1.5rem);
+  --h3: clamp(1rem, 3.5vw, 1.25rem);
+  --h4: clamp(0.95rem, 3vw, 1.15rem);
+  --p1: clamp(0.75rem, 2.5vw, 0.85rem);
+  --p2: clamp(0.62rem, 1.8vw, 0.72rem);
+  --p3: clamp(0.5rem, 1.65vw, 0.6rem);
+  --p4: clamp(0.45rem, 1.5vw, 0.55rem);
+  --p5: clamp(0.35rem, 1.45vw, 0.45rem);
+
+  --radius: 1.5rem;
+  --radius-m: 1rem;
+  --radius-s: 0.75rem;
+  --radius-ss: 0.65rem;
+  --padding: clamp(0.75rem, 3vw, 1rem);
+}
+
+@media (width < 640px) {
+  :root {
+    --h1: clamp(1.5rem, 5vw, 2rem);
+    --h2: clamp(1.25rem, 4vw, 1.5rem);
+    --h3: clamp(1rem, 3.5vw, 1.25rem);
+    --h4: clamp(0.95rem, 3vw, 1.15rem);
+    --p1: clamp(16px, 2.5vw, 0.85rem);
+    --p2: clamp(12px, 1.8vw, 0.72rem);
+    --p3: clamp(10px, 1.65vw, 0.6rem);
+    --p4: clamp(8px, 1.5vw, 0.55rem);
+    --p5: clamp(0.35rem, 1.45vw, 0.45rem);
+  }
+}
+
+@layer  base{
+  .cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.8rem 1.25rem;
+    width: fit-content;
+    height: 2.5rem;
+    background: #333333;
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    box-shadow:
+      0px 0px 5px rgba(51, 51, 51, 0.4),
+      inset 0px -1px 2px rgba(245, 245, 245, 0.25),
+      inset 0px 1px 2px rgba(245, 245, 245, 0.3);
+    border-radius: 5rem;
+    color: #f5f5f5;
+    font-size: var(--p2);
+    cursor: pointer;
+    transition: ease 0.5s;
+  }
+
+  .cta:hover {
+    filter: brightness(90%);
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Satoshi";
+}
+
+.font-h1,
+.font-h1 * {
+  font-size: var(--h1) !important;
+}
+
+.font-h2,
+.font-h2 * {
+  font-size: var(--h2) !important;
+}
+.font-h3,
+.font-h3 * {
+  font-size: var(--h3) !important;
+}
+.font-h4,
+.font-h4 * {
+  font-size: var(--h4) !important;
+}
+
+.font-p1,
+.font-p1 * {
+  font-size: var(--p1) !important;
+}
+
+.font-p1,
+.font-p1 * {
+  font-size: var(--p1) !important;
+}
+.font-p2,
+.font-p2 * {
+  font-size: var(--p2) !important;
+}
+.font-p3,
+.font-p3 * {
+  font-size: var(--p3) !important;
+}
+
+.font-p4,
+.font-p4 * {
+  font-size: var(--p4) !important;
+}
+
+.font-p5,
+.font-p5 * {
+  font-size: var(--p5) !important;
+}
+
+
