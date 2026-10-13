@@ -2,8 +2,8 @@ export default function Hero() {
   return (
     <header className="hero" role="banner">
       <div className="wrap hero-inner">
-        <span aria-label="Noel Jr">
-          <h1 className="scramble" data-text="Design & Everything">
+        <span aria-label="">
+          <h1 className="" data-text="Design & Everything">
             Design &amp; Everything
           </h1>
         </span>
@@ -18,7 +18,7 @@ export default function Hero() {
           </p>
           <div className="hero-meta mono">
             <span className="hidden" itemProp="addressLocality">Fintech</span>
-            
+
             <span>E-commerce · AI & Automation</span>
             <span> Health · Education</span>
           </div>

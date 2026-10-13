@@ -27,7 +27,7 @@ export default function Footer() {
     <footer>
       <div className="wrap foot mono">
         <span>
-          © <span id="year">{year}</span> Noel Jr
+          © <span id="year">{year}</span> Noel Jr. Luhanga
         </span>
         <span id="clock">{time}</span>
         <a href="#top" data-hover="">
