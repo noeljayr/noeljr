@@ -13,11 +13,11 @@ export default function Hero() {
         <div className="hero-foot io">
           <p>
             Some <strong>see design and code as separate worlds;</strong> I love
-            living in both! I&apos;m a <strong>UI/UX Designer</strong> with a
-            knack for building <strong>user-centered products</strong>.
+            living in both! I&apos;m a <strong>Product Designer</strong> with a
+            knack for building <strong> products</strong>.
           </p>
           <div className="hero-meta mono">
-            <span itemProp="addressLocality">Malawi</span>
+            <span className="hidden" itemProp="addressLocality">Malawi</span>
             <span>Fintech · Health · Education</span>
             <span>E-commerce · AI and Automation</span>
           </div>
