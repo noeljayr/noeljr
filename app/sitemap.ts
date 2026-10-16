@@ -40,7 +40,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // KIN Project
     {
-      url: "https://www.noeljr.com/kin/",
+      url: "https://kin.noeljr.com/",
       lastModified: "2026-10-12",
       changeFrequency: "monthly",
       priority: 0.7,

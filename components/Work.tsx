@@ -26,7 +26,7 @@ const PROJECTS = [
     ],
     img: "/projects/kin/kin-cover.png",
     images: ["/projects/kin/1.png", "/projects/kin/2.png"],
-    link: "/kin/",
+    link: "https://kin.noeljr.com/",
   },
   {
     id: "timvane",
