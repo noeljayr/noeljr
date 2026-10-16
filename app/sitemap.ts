@@ -40,7 +40,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // KIN Project
     {
-      url: "https://www.noeljr.com/projects/kin/",
+      url: "https://www.noeljr.com/kin/",
       lastModified: "2026-10-12",
       changeFrequency: "monthly",
       priority: 0.7,
@@ -48,7 +48,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Goldilocks Project
     {
-      url: "https://www.noeljr.com/projects/goldilocks/",
+      url: "https://www.noeljr.com/goldilocks/",
       lastModified: "2026-10-12",
       changeFrequency: "monthly",
       priority: 0.6,
@@ -56,7 +56,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Lehazin Project
     {
-      url: "https://www.noeljr.com/projects/lehazin/",
+      url: "https://www.noeljr.com/lehazin/",
       lastModified: "2026-10-12",
       changeFrequency: "monthly",
       priority: 0.6,
@@ -64,7 +64,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Sygenius Project
     {
-      url: "https://www.noeljr.com/projects/sygenius/",
+      url: "https://www.noeljr.com/sygenius/",
       lastModified: "2026-10-12",
       changeFrequency: "monthly",
       priority: 0.6,
@@ -72,7 +72,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Timvane Project
     {
-      url: "https://www.noeljr.com/projects/timvane/",
+      url: "https://www.noeljr.com/timvane/",
       lastModified: "2026-10-12",
       changeFrequency: "monthly",
       priority: 0.6,
