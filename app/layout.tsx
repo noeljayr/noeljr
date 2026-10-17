@@ -4,7 +4,7 @@ import "../css/globals.css";
 const SITE_URL = "https://www.noeljr.com";
 const SHORT_TITLE = "Noel Jr. Luhanga — Product Designer & Developer";
 const OG_DESCRIPTION =
-  "Product designer and developer specializing in fintech, health, and education systems. Building beautiful, user-centered products in Malawi since 2022.";
+  "Product designer and developer specializing in fintech, e-commerce, and edu-tech systems. Building beautiful, user-centered products in Malawi since 2022.";
 const OG_IMAGE = "/images/noel-luhanga.jpg";
 
 export const metadata: Metadata = {
